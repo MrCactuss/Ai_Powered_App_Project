@@ -22,8 +22,8 @@ import os
 
 # --- Replace with environment variables in a real project. ---
 
-openai.api_key = "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"
-MAPS_API_KEY = "AIzaSyBwJbcCFeDSE7pjJSahEaz0-B9bpdpKYGM" 
+openai.api_key = ""
+MAPS_API_KEY = "" 
 
 # Define the tools (API calls)
 tools = [
