@@ -55,7 +55,7 @@ cd Projekt
                <img src="./assets/screenshots/Locations.png" alt="Locations Screen" width="300" />
           </td>
            <td>
-               <img src="./assets/screenshots/Camera.png" alt="Camera Screen" width="300" />
+               <img src="./assets/screenshots/Chat.png" alt="Chat View" width="300" />
           </td>
      </tr>
      <tr>
